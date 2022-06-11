@@ -1,6 +1,6 @@
 # Zainab Alasadi ✨
 
-Hi there, I'm Zainab—currently a user experience researcher and designer at Wriveted, helping children find books they love. Previously, I was exploring interactions between humans and robots at UNSW’s HCI BoDI lab, scaling design systems at Macquarie Bank, and studied Computer Science and Media Arts at UNSW. I am currently thinking a lot about exploratory research, design ethics, and inclusive futures.
+Hi there, I'm Zainab—currently a user experience researcher and designer at Wriveted, helping children find books they love. Previously, I was exploring interactions between humans and robots at UNSW’s HCI BoDI lab, scaling design systems at Macquarie Bank, and studied Computer Science and Media Arts at UNSW.
 
 ## Things I'm currently thinking about
 - 📙 Design ethics and futures
