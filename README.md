@@ -8,7 +8,7 @@ Hi there, I'm Zainab—currently a user experience researcher and designer at Wr
 - 🤠 More [cowboy emojis](https://drive.google.com/drive/mobile/folders/15QZNIvkY9wbEBkUsHnfjjHXwOnApniIx?usp=drive_open)
 
 ## Get in touch
-- Twitter: [@zalasadi_](https://www.twitter.com/zalasadi_){:target="_blank" rel="noopener"}
-- Linkedin: [linkedin.com/in/zainabalasadi](https://linkedin.com/in/zainabalasadi){:target="_blank" rel="noopener"}
+- Twitter: [@zalasadi_](https://www.twitter.com/zalasadi_)
+- Linkedin: [linkedin.com/in/zainabalasadi](https://linkedin.com/in/zainabalasadi)
 - Email: hello [at] zainabalasadi.com
-- Portfolio [zainabalasadi.com](https://zainabalasadi.com){:target="_blank" rel="noopener"}
+- Portfolio [zainabalasadi.com](https://zainabalasadi.com)
