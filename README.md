@@ -1,16 +1,14 @@
-### Hi there 👋
+# Zainab Alasadi ✨
 
-<!--
-**zainabalasadi/zainabalasadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there, I'm Zainab—currently a user experience researcher and designer at Wriveted, helping children find books they love. Previously, I was exploring interactions between humans and robots at UNSW’s HCI BoDI lab, scaling design systems at Macquarie Bank, and studied Computer Science and Media Arts at UNSW. I am currently thinking a lot about exploratory research, design ethics, and inclusive futures.
 
-Here are some ideas to get you started:
+## Things I'm currently thinking about
+- 📙 Design ethics and futures
+- 🧠 Trustworthy machine learning systems (peep this [paper](https://publications.csiro.au/publications/publication/PIcsiro:EP205485) published by my coworker)
+- 🤠 More [cowboy emojis](https://drive.google.com/drive/mobile/folders/15QZNIvkY9wbEBkUsHnfjjHXwOnApniIx?usp=drive_open)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Get in touch
+- Twitter: [@zalasadi_](www.twitter.com/zalasadi_)
+- Linkedin: [linkedin.com/in/zainabalasadi](https://linkedin.com/in/zainabalasadi)
+- Email: hello [at] zainabalasadi.com
+- Portfolio [zainabalasadi.com](zainabalasadi.com)
