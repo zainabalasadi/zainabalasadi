@@ -11,4 +11,3 @@ Hi there, I'm Zainab—currently a user experience researcher and designer at Wr
 - Twitter: [@zalasadi_](https://www.twitter.com/zalasadi_)
 - Linkedin: [linkedin.com/in/zainabalasadi](https://linkedin.com/in/zainabalasadi)
 - Email: hello [at] zainabalasadi.com
-- Portfolio [zainabalasadi.com](https://zainabalasadi.com)
